@@ -1,4 +1,4 @@
-Welcome to my not-so-promising repo.
+Welcome to yet another digital wasteland.
 I use it to host recreational code, mainly.
 
 <!---
